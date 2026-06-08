@@ -3,6 +3,9 @@
 
 # Overview
 This machine basically does nothing, turning itself off whenever you turn the machine on, it is a simple yet really poetic as it really envisions how trying really hard can be as negative as if you were too lazy, not necessarily meaning that you shouldn't try but you shouldn't burn yourself out, I had to make something up so ye uh hehheahhahahahaha. Wait ur still reading?
+
+# Why I made this
+I made this project as it is simple yet is challenging enough for me at this level to learn about wiring and modules such as the servo motor and switches, it also gives me a sense of how to code in C++
 # What it does
 It basically serves no purpose obviously fitting DaNothingMachine. However, how it works is that whenever you turn the switch on, it uses the servo motor to then turn itself off.
 
