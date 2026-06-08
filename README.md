@@ -10,6 +10,7 @@ It basically serves no purpose obviously fitting DaNothingMachine. However, how 
 
 
 # Wiring Diagram
-<img width="699" height="703" alt="Screenshot 2026-06-08 at 2 59 34 PM" src="https://github.com/user-attachments/assets/a8da6512-ec32-4f54-914e-720ef23387d1" />
+<img width="1724" height="1322" alt="image" src="https://github.com/user-attachments/assets/806a867c-3d46-42b1-96df-32e04e38e948" />
+
 # Code
 <img width="480" height="596" alt="Screenshot 2026-06-08 at 3 13 00 PM" src="https://github.com/user-attachments/assets/75c4b25f-f70e-4f9b-97a0-5e986f1a76ab" />
