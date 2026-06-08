@@ -1,1 +1,15 @@
 # DaNothingMachine
+This machine basically does nothing, turning itself off whenever you turn the machine on, it is a simple yet really poetic as it really envisions how trying really hard can be as negative as if you were too lazy, not necessarily meaning that you shouldn't try but you shouldn't burn yourself out, I had to make something up so ye uh hehheahhahahahaha. Wait ur still reading?
+# What it does
+It basically serves no purpose obviously fitting DaNothingMachine. However, how it works is that whenever you turn the switch on, it uses the servo motor to then turn itself off.
+
+# CAD
+<img width="677" height="644" alt="Screenshot 2026-06-08 at 3 10 15 PM" src="https://github.com/user-attachments/assets/f8487c80-d8e8-484b-86bb-90fc11425e6e" />
+<img width="914" height="470" alt="Screenshot 2026-06-08 at 3 10 50 PM" src="https://github.com/user-attachments/assets/e946f487-d6ef-43f6-8161-f2baeea60857" />
+<img width="914" height="470" alt="Screenshot 2026-06-08 at 3 12 03 PM" src="https://github.com/user-attachments/assets/7e41aeff-4e55-4a01-baba-9ab144327609" />
+
+
+# Wiring Diagram
+<img width="699" height="703" alt="Screenshot 2026-06-08 at 2 59 34 PM" src="https://github.com/user-attachments/assets/a8da6512-ec32-4f54-914e-720ef23387d1" />
+# Code
+<img width="480" height="596" alt="Screenshot 2026-06-08 at 3 13 00 PM" src="https://github.com/user-attachments/assets/75c4b25f-f70e-4f9b-97a0-5e986f1a76ab" />
