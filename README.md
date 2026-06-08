@@ -1,4 +1,7 @@
 # DaNothingMachine
+<img width="1410" height="2000" alt="Apple Aesthetic Design Guidelines" src="https://github.com/user-attachments/assets/6e13c531-1ab7-46aa-a231-602a30ea119d" />
+
+# Overview
 This machine basically does nothing, turning itself off whenever you turn the machine on, it is a simple yet really poetic as it really envisions how trying really hard can be as negative as if you were too lazy, not necessarily meaning that you shouldn't try but you shouldn't burn yourself out, I had to make something up so ye uh hehheahhahahahaha. Wait ur still reading?
 # What it does
 It basically serves no purpose obviously fitting DaNothingMachine. However, how it works is that whenever you turn the switch on, it uses the servo motor to then turn itself off.
